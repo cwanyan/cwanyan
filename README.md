@@ -9,7 +9,7 @@
 • Python</br></br> 
 
 💡 <b>Skillset</b><br>
-• Data Analysis: Excel, SQL, Tableau, R</br></br>
+• Data Analytics: Excel, SQL, Tableau, R</br></br>
 
 🎓 <b>Completed Courses</b></br>
 • <a href="https://www.credly.com/badges/5e39ebab-178a-456c-9330-f52c6701b51e/public_url">Google Data Analytics Professional Certificate</a> on Coursera</br>
