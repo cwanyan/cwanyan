@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**cwanyan/cwanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ <b>About me</b></br>
+• I'm from 🇸🇬 Singapore</br>
+• Worked as Events planner, Financial Advisor, Digital Marketer</br>
+• On a learning journey to pivot to Tech</br></br>
 
-Here are some ideas to get you started:
+🌱 <b>I’m currently learning</b></br> 
+• Python</br></br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 <b>Skillset</b><br>
+• Data Analysis: Excel, SQL, Tableau, R</br></br>
+
+🎓 <b>Completed Courses</b></br>
+• <a href="https://www.credly.com/badges/5e39ebab-178a-456c-9330-f52c6701b51e/public_url">Google Data Analytics Professional Certificate</a> on Coursera</br>
+• <a href="https://www.codecademy.com/profiles/chuawanyan">Learn Java, Learn HTML, Learn CSS</a> on Codecademy</br>
+• <a href="https://drive.google.com/file/d/1mGkOb75oQwpNdx0nQnxnJrZuwinLT-1F/view">Intro to User Experience Design</a> Bootcamp by Smartcademy</br>
+
+
+
+
+
